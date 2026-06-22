@@ -1,0 +1,8 @@
+{
+    "base_url": "https://jsonplaceholder.typicode.com",
+    "posts": [
+        {"id": 1, "expected_userId": 1},
+        {"id": 2, "expected_userId": 1},
+        {"id": 3, "expected_userId": 1}
+    ]
+}
